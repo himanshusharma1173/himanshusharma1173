@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋 I'm Himanshu Sharma
 
-<!--
-**himanshusharma1173/himanshusharma1173** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Associate Cloud Engineer at Accenture  
+🎯 Multi-cloud Certified | DevOps Enthusiast | GenAI Explorer
 
-Here are some ideas to get you started:
+🌐 Skilled in designing and managing cloud environments across **Azure**, **AWS**, and **GCP**  
+💡 Passionate about **DevOps**, **Automation**, and **Generative AI applications** in the cloud
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛡️ **Certifications**:
+- Microsoft Certified: Azure Fundamentals (AZ-900)
+- Microsoft Certified: Azure Administrator Associate (AZ-104)
+- Google Cloud Certified: Associate Cloud Engineer
+- Google Cloud Certified: Generative AI Leader
+- AWS Certified Cloud Practitioner
+
+📫 Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/himanshusharma1173/)
